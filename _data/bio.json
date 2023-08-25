@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "christopherrtan", "url": "http://github.com/christopherrtan" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/christopher-tan-8a9538236/" },
+      { "network": "linkedin", "username": "Christopher Tan", "url": "https://www.linkedin.com/in/christopher-tan-8a9538236/" },
     ]
   },
   "interests": [
@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [  ]
     },
     {
       "name": "Toolsets/OS",
