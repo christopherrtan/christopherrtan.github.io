@@ -15,94 +15,58 @@
   },
   "interests": [
     { "name": "Tennis" },
-    { "name": "Lifting" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [  ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
+    { "name": "Lifting" }, 
+    { "name": "Gaming" },
+    { "name": "Accounting" }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting and MIS (expected Fall, 2024)",
+      "area": "Accounting and Management Information System (expected Fall, 2024)",
       "studyType": "BBA",
       "startDate": "2020-08-17",
       "endDate": "Present",
-      "courses": [
-      ]
+      
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Becker Professional Education",
+      "position": "Campus Ambassador",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-05-12",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Serves as a liaison between Becker and the University of Hawaii at Manoa",
+        "Prepares and organizes guest lectures for students"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Accuity LLP",
+      "position": "Audit Intern",
+      "website": "",
+      "startDate": "2023-06-19",
+      "endDate": "2023-08-04",
+      
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Conducted control testing to assess that internal controls were being performed",
+        "Processed samples to evaluate compliance with grant terms"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Beta Alpha Psi - Delta Theta Chapter",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Treasurer",
+      "startDate": "2023-05-12",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Created a budget for all club-related expenses",
+        "Monitoring and processing cash receipts and disbursements for operations"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
