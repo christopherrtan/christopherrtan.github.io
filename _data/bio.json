@@ -1,77 +1,95 @@
 {
-  "basics": {
-    "name": "Christopher Tan",
-    "label": "Student",
-    "picture": "https://github.com/christopherrtan.png",
-    "email": "crtan@hawaii.edu",
-    "phone": "808-339-6499",
-    "website": "https://christopherrtan.github.io",
-    "summary": "I am studying for a BBA in Accounting & MIS at the University of Hawaii. I expect to graduate in Fall, 2024.",
-    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "christopherrtan", "url": "http://github.com/christopherrtan" },
-      { "network": "linkedin", "username": "Christopher Tan", "url": "https://www.linkedin.com/in/christopher-tan-8a9538236/" },
-    ]
-  },
-  "interests": [
-    { "name": "Tennis" },
-    { "name": "Lifting" }, 
-    { "name": "Gaming" },
-    { "name": "Accounting" }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting and Management Information System (expected Fall, 2024)",
-      "studyType": "BBA",
-      "startDate": "2020-08-17",
-      "endDate": "Present",
-      
-    }
-  ],
-  "work": [
-    {
-      "company": "Becker Professional Education",
-      "position": "Campus Ambassador",
-      "website": "",
-      "startDate": "2023-05-12",
-      "endDate": "Present",
-      
-      "highlights": [
-        "Serves as a liaison between Becker and the University of Hawaii at Manoa",
-        "Prepares and organizes guest lectures for students"
+   "basics":{
+      "name":"Christopher Tan",
+      "label":"Student",
+      "picture":"https://github.com/christopherrtan.png",
+      "email":"crtan@hawaii.edu",
+      "phone":"808-339-6499",
+      "website":"https://christopherrtan.github.io",
+      "summary":"I am studying for a BBA in Accounting & MIS at the University of Hawaii. I expect to graduate in Fall, 2024.",
+      "location":{
+         "address":"",
+         "postalCode":"96814",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"christopherrtan",
+            "url":"http://github.com/christopherrtan"
+         },
+         {
+            "network":"linkedin",
+            "username":"Christopher Tan",
+            "url":"https://www.linkedin.com/in/christopher-tan-8a9538236/"
+         }
       ]
-    },
-    {
-      "company": "Accuity LLP",
-      "position": "Audit Intern",
-      "website": "",
-      "startDate": "2023-06-19",
-      "endDate": "2023-08-04",
-      
-      "highlights": [
-        "Conducted control testing to assess that internal controls were being performed",
-        "Processed samples to evaluate compliance with grant terms"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Beta Alpha Psi - Delta Theta Chapter",
-      "website": "https://www.bapuhm.org/",
-      "position": "Treasurer",
-      "startDate": "2023-05-12",
-      "endDate": "Present",
-      
-      "highlights": [
-        "Created a budget for all club-related expenses",
-        "Monitoring and processing cash receipts and disbursements for operations"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"Tennis"
+      },
+      {
+         "name":"Lifting"
+      },
+      {
+         "name":"Gaming"
+      },
+      {
+         "name":"Accounting"
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Accounting and Management Information System (expected Fall, 2024)",
+         "studyType":"BBA",
+         "startDate":"2020-08-17",
+         "endDate":"Present"
+      }
+   ],
+   "work":[
+      {
+         "company":"Becker Professional Education",
+         "position":"Campus Ambassador",
+         "website":"",
+         "startDate":"2023-05-12",
+         "endDate":"Present",
+         "highlights":[
+            "Serves as a liaison between Becker and the University of Hawaii at Manoa",
+            "Prepares and organizes guest lectures for students"
+         ]
+      },
+      {
+         "company":"Accuity LLP",
+         "position":"Audit Intern",
+         "website":"",
+         "startDate":"2023-06-19",
+         "endDate":"2023-08-04",
+         "highlights":[
+            "Conducted control testing to assess that internal controls were being performed",
+            "Processed samples to evaluate compliance with grant terms"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Beta Alpha Psi - Delta Theta Chapter",
+         "website":"https://www.bapuhm.org/",
+         "position":"Treasurer",
+         "startDate":"2023-05-12",
+         "endDate":"Present",
+         "highlights":[
+            "Created a budget for all club-related expenses",
+            "Monitoring and processing cash receipts and disbursements for operations"
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request"
+      }
+   ]
 }
