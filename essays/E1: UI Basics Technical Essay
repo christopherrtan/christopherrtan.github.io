@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: "E1: UI Basics Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-10
+published: true
+labels:
+  - E1
+---
+
+For BrowserHistory1, in total, it took me about an hour for the first time. I was mainly having issues making lists. Aside from that, I believe that I was able to quickly review and apply <a href = ""> to add hyperlinks to words. I think that I was able to complete this one a lot quicker since it was much more straightforward compared to 2 and 3 despite having more steps.
+
+For BrowserHistory2, it took me about an hour and a half for the first time due to me being the most proficient with CSS. After doing a bit more researching on CSS syntax, I was able to complete the assignment much quicker than the first run
+
+For BrowserHistory3, it took me almost two hours to complete this one. This one in my opinion was the most finicky. I was able to get the columns for the center and the right side but for some reason the left column was slightly raised. As such, I spent a full hour and a half trying to figure out why it looked messed up. Reason being that I had placed the ending tag (</div>) on the paragraph before the one I was supposed to.
+
+In summary, I learned that coming in with a plan before doing these WODs and really taking the time to do your research reinforces the skills necessary to successfully complete these assignments.
